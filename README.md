@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Irissskkk, student of Moscow Aviation Instiute, faculty of fundamental computer science and information technology
 - 👀 I’m interested in Frontend, UX/UI design
-- 🌱 I’m currently learning С++
+- 🌱 I’m currently learning С
 
 
 <!---
